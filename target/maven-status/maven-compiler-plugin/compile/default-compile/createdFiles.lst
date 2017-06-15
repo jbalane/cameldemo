@@ -1,0 +1,7 @@
+com\test\camel\dao\SampleDAO.class
+com\test\camel\CamelSample.class
+com\test\camel\bean\PersistenceBean.class
+com\test\camel\dao\SampleDAOImpl.class
+com\test\camel\model\Sample.class
+com\test\camel\CamelRouteBuilder.class
+com\test\camel\processor\SortingProcessor.class
